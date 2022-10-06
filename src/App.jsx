@@ -105,7 +105,7 @@ function App() {
         ""
       )}
 
-      <a href="#">
+      <a href="https://github.com/jazz921/quiz-app-reactjs">
         <img src={ghIcon} alt="" width="50" className="gh" />
       </a>
     </div>
